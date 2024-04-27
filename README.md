@@ -17,6 +17,10 @@ To Create a project on Time series analysis on weather forecasting using ARIMA m
 ### PROGRAM:
 #### Import the neccessary packages
 ```
+Developed By:P.Siva Naga Nithin
+Reg.No:212221240037
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
